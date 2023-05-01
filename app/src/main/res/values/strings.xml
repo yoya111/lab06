@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+</resources>
